@@ -1,1 +1,0 @@
-https://www.sqlskills.com/blogs/kimberly/guids-as-primary-keys-andor-the-clustering-key/
